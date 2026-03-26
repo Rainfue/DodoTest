@@ -1,3 +1,5 @@
 ultralytics
 pandas
 opencv-python
+torch 
+torchvision
